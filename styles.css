@@ -1,8 +1,8 @@
 /*  your css code here. If applicable */
 .card{
 	width:300px;
-	padding:20px:
-	box-shadow:4 px 12 px;
+	padding:10px;
+	box-shadow:4px 12px;
 }
 img{
 	width:100%;
@@ -11,6 +11,6 @@ img{
 button{
 	padding:10px 24px;
 	color:red;
-	text-decoration-color:
+	background-color:blue;
 	border-radius:6px;
 }
