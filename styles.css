@@ -1,1 +1,16 @@
 /*  your css code here. If applicable */
+.card{
+	width:300px;
+	padding:20px:
+	box-shadow:4 px 12 px;
+}
+img{
+	width:100%;
+	height:auto;
+}
+button{
+	padding:10px 24px;
+	color:red;
+	text-decoration-color:
+	border-radius:6px;
+}
